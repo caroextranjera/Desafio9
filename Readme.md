@@ -26,5 +26,5 @@ Requisitos visuales
 
 Maquetación
 
-para mobil ![](ketchmobil.jpg)
+para mobil ![](sketchmobil.jpg)
 para Desktop ![](sketchdesktop.jpg)
