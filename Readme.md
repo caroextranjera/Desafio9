@@ -26,5 +26,5 @@ Requisitos visuales
 
 Maquetación
 
-para mobil ![](Desafio9/sketchmobil.jpg)
-para Desktop ![](Desafio9/sketchdesktop.jpg)
+para mobil ![](ketchmobil.jpg)
+para Desktop ![](sketchdesktop.jpg)
